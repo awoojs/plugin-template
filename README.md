@@ -34,6 +34,11 @@ You can delete this code block once you've modified the template!
   <!-- travis ci -->
   <a href="https://travis-ci.org/wehjs/matter"><img src="https://img.shields.io/travis/YOURREPO.svg?style=flat-square"
   alt="test status"></a>
+  <!-- npm version -->
+  <a href="https://npmjs.org/package/YOURNPMNAME">
+    <img src="https://img.shields.io/npm/v/YOURNPMNAME.svg?style=flat-square"
+      alt="npm version" />
+  </a>
   <!-- code style -->
   <a href="https://github.com/feross/standard"><img src="https://img.shields.io/badge/code%20style-standard-blue.svg?style=flat-square"
   alt="code style: standard"></a>
