@@ -11,6 +11,7 @@ README.md
 LICENSE
 package.json
 lib/plugin.js
+.github/config.yml (for use with probot config)
 
 To enable Travis support, go to http://travis-ci.org and enable your GitHub plugin
 repository. The next time you push, a build should automatically get started.
