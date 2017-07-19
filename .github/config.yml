@@ -1,7 +1,6 @@
 repository:
   name: plugin-template
   description: ':closed-book: template for weh plugins'
-  homepage: https://github.com/wehjs/weh
   private: false
   has_issues: true
   has_projects: false
